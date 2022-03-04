@@ -1,4 +1,5 @@
-# An eccomerce site built using vanilla PHP, Javascript,HTML5 and CSS. There are three types of users buyers, sellers and Admin.
+# An eccomerce site built using vanilla PHP, Javascript,HTML5 and CSS.
+There are three types of users buyers, sellers and Admin.
 Buyers can:
 1. create an account and get authenticated via Email.
 2. Add items to a shopping cart.
